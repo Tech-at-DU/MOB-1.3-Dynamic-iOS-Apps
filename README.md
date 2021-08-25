@@ -14,9 +14,9 @@ Most, if not all, mobile apps will need to communicate with an external service 
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 13 sessions
+**Course Delivery**: online | 7 weeks | 21 sessions
 
-**Course Credits**: 3 units | 75 Total Hours
+**Course Credits**: 3 units | 42 Total Hours
 
 ## Learning Outcomes
 
@@ -30,11 +30,15 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, Mar 30 – Thursday, May 13, 2021 (7 weeks)
+**Course Dates:** Monday, Aug 23 – Friday, Oct 8, 2021 (7 weeks)
 
-**Class Times:** Tuesday, Thursday at 1:45–2:30pm (13 class sessions)
+**Class Times:** Monday, Wednesday, and Friday at 3:40pm - 5:30pm PST (21 class sessions)
 
-| Class |          Date          |                 Topics                  |
+Course schedule can be found in the [course syllabus]
+
+[course syllabus]: https://docs.google.com/spreadsheets/d/1wj4dNUR11T0F-RA_wnnccClRvyIABejqcJGXxl36Byw/edit#gid=0
+
+<!-- | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tue, Mar 30               | [Closures and callbacks]               |
 |  2 |  Thu, Apr 1                | **No Class - Cesar Chavez**            |
@@ -64,16 +68,16 @@ Students by the end of the course will be able to ...
 [Generics]: Lessons/Generics/README.md
 [Firebase]: Lessons/Lesson13/README.md
 [study guide]: https://github.com/Make-School-Courses/MOB-1.3-Dynamic-iOS-Apps/blob/master/StudyGuide.md
-[Pokedex solution]: https://youtu.be/uddx-IrIHV8
+[Pokedex solution]: https://youtu.be/uddx-IrIHV8 -->
 
 ## Tutorials + Assignments Schedule
 
 |         Name                 |   Type    | Date Assigned |   Due Date   |
 |:----------------------------:|:---------:|:-------------:|:------------:|
-| [Pomodoro App]               | In-class  |  Apr 5        |   Apr 12  |
-| [Product Hunt tutorial]      | Tutorial  |  Apr 21       |   Apr 26  |
-| [Pokedex assignment]         | In-class  |  Apr 22       |   Apr 28  |
-| [Moviefy App]                | Tutorial/Project  |  May 4       |   May 16   |
+| [Pomodoro App]               | In-class  |  ~~Apr 5~~        |   ~~Apr 12~~  |
+| [Product Hunt tutorial]      | Tutorial  |  ~~Apr 21~~       |   ~~Apr 26~~  |
+| [Pokedex assignment]         | In-class  |  ~~Apr 22~~       |   ~~Apr 28~~  |
+| [Moviefy App]                | Tutorial/Project  |  May 4       |   ~~May 16~~   |
 
 <!--
 | [Final Project]              | Project   |  Apr 26       |   May 12  |
